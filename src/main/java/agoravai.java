@@ -1,5 +1,5 @@
 package src.main.java;
 
 public class agoravai {
-    asdsadsad
+    System.out.println("se leste isto es gay !!");
 }
